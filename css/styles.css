@@ -64,7 +64,7 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #212529;
+  color: #0f1818;
   text-align: left;
   background-color: #fff;
 }
@@ -164,7 +164,7 @@ a {
   background-color: transparent;
 }
 a:hover {
-  color: #824027;
+  color: #0033cc;
   text-decoration: underline;
 }
 
@@ -6592,6 +6592,7 @@ button.bg-dark:focus {
 
 .flex-shrink-0 {
   flex-shrink: 0 !important;
+   font-family:'verdana';
 }
 
 .flex-shrink-1 {
@@ -9981,7 +9982,7 @@ h3 {
 }
 body {
   padding-top: 3.375rem;
-  color: #6c757d;
+  color: #666666;
 }
 
 @media (min-width: 992px) {
@@ -10010,9 +10011,10 @@ p.lead {
 
 .subheading {
   font-family: "Saira Extra Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  text-transform: uppercase;
+  text-transform: upperercase;
   font-weight: 500;
   font-size: 1.5rem;
+  color:#576078;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -10079,7 +10081,7 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #bd5d38;
+  background-color: #1f94bd;
 }
 
 .dev-icons {
